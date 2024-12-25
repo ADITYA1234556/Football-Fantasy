@@ -41,3 +41,15 @@ npm start
 
 **Step 4: Access the UI**
 - http://localhost:3000
+
+<div align="center">
+  <!-- Application Home Page -->
+  <img src="UI.jpg" alt="Application Home Page" width="100%" height="100%">
+  <p align="center"><strong>Application Home Page</strong></p>
+</div>
+
+<div align="center">
+  <!-- Players from Arsenal Team -->
+  <img src="players.png" alt="Players from Arsenal Team" width="100%" height="100%">
+  <p align="center"><strong>Players from Arsenal Team</strong></p>
+</div>
